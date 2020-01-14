@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+pip install jupyterlab
+
+
 # Distribution / packaging
 .Python
 build/
